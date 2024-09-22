@@ -45,7 +45,7 @@ optimize-images -f "C:/path/image.jpg" -o "C:/path/optimized" -q 75
 ### Optimize All Images in a Directory ( With Sub Folders)
 
 ```bash
-optimize-images -d "C:/path/to/assets" -o "C:/path/to/optimized" -q 75
+optimize-images -d "C:/path/assets" -o "C:/path/optimized" -q 75
 ```
 
 ## Important Notes
