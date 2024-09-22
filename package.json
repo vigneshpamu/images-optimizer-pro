@@ -1,0 +1,34 @@
+{
+  "name": "images-optimizer-pro",
+  "type": "module",
+  "version": "1.0.3",
+  "main": "index.js",
+  "bin": {
+    "optimize-images": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image-optimizer",
+    "image-compression",
+    "jpg-optimizer",
+    "png-compression",
+    "svg-optimization",
+    "web-performance",
+    "batch-image-optimization",
+    "CLI-tool",
+    "image-compression-tool",
+    "optimize-images"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "browser-image-compression": "^2.0.2",
+    "commander": "^12.1.0",
+    "ora": "^8.1.0",
+    "sharp": "^0.33.5",
+    "svgo": "^3.3.2"
+  }
+}
