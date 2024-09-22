@@ -29,7 +29,7 @@ optimize-images [options]
 
 ## Options
 
-- `-f`, `--file <path>`: Path to a single image file to optimize - relative path.
+- `-f`, `--file <path>`: Path to a single image file to optimize - absolute path.
 - `-d`, `--directory <path>`: Directory containing images to optimize (default: `./images`).
 - `-o`, `--output <path>`: Directory to save optimized images (default: `./optimized`).
 - `-q`, `--quality <number>`: Quality for JPG and PNG compression (0-100, default: 80).
