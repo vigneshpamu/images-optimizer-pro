@@ -1,6 +1,6 @@
 # Images Optimizer Pro
 
-![Version](https://img.shields.io/npm/v/smart-image-optimizer)
+![Version](https://img.shields.io/npm/v/images-optimizer-pro)
 
 A command-line interface tool to optimize images (JPG, PNG, SVG) for web performance. This tool helps reduce the file size of your images without compromising quality, making your websites load faster.
 
